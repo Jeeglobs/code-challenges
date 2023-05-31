@@ -17,5 +17,5 @@
 # Output: [2, 1, 1, 3, 2]
 
 
-def load_balancing(n, arrival, burstTime):
+def round_robin(n, arrival, burstTime):
     pass
